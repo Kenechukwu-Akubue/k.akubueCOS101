@@ -1,1 +1,0 @@
-C:\Users\kenej\OneDrive\Documents\School\ Stuff\PAU\Class\ Stuff\k.akubueCOS101\week-4\practice_5\target\debug\practice_5.exe: C:\Users\kenej\OneDrive\Documents\School\ Stuff\PAU\Class\ Stuff\k.akubueCOS101\week-4\practice_5\src\main.rs
