@@ -1,3 +1,8 @@
 # Ignore compiled files
 *.exe
 *.pdb
+
+# Ignore Rust build outputs
+/target
+**/target
+Cargo.lock
