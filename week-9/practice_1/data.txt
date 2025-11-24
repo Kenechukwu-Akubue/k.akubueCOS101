@@ -1,0 +1,3 @@
+welcom to Rust programming
+Week 9 - Rust File I/O
+Department of Computer Science
